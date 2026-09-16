@@ -7,7 +7,7 @@
             اخبار خانوادگی
         </description>
         <language>fa-IR</language>
-        <copyright>Copyright 2026 HomeCity</copyright>
+        <copyright>Copyright 2026 EmamiFamily</copyright>
         <managingEditor>emamifamily10@gmail.com (Home)</managingEditor>
         <webMaster>kianemami1394@gmail.com (Kian)</webMaster>
         <pubDate>Wed, 16 Sep 2026 12:00:00 +0330</pubDate>
@@ -23,6 +23,14 @@
             <height>144</height>
             <description>Zoom</description>
         </image>
-
+        <item>
+            <title>یک خبر آزمایشی</title>
+            <link>https://emami10.github.io/news/1</link>
+            <description>این یک خبر آزمایشی برای RSS خانواده امامی است.</description>
+            <pubDate>Wed, 16 Sep 2026 12:00:00 +0330</pubDate>
+            <guid isPermaLink="true">https://emami10.github.io/news/1</guid>
+            <category>خانواده</category>
+            <author>emamifamily10@gmail.com (Home)</author>
+        </item>
     </channel>
 </rss>
