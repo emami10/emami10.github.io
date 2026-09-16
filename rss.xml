@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>خانواده امامی</title>
+        <title>Emami Family</title>
         <link>https://emami10.github.io/</link>
         <description>
             اخبار خانوادگی
@@ -17,7 +17,7 @@
         <ttl>60</ttl>
         <image>
             <url>https://s.cafebazaar.ir/images/icons/ir.zoom.app-a89fa74f-4652-4b2f-9bba-fb120f047ed1_512x512.png?x-img=v1/format,type_webp,lossless_false/resize,h_256,w_256,lossless_false/optimize</url>
-            <title>خانواده امامی</title>
+            <title>Emami Family</title>
             <link>https://example.com/</link>
             <width>144</width>
             <height>144</height>
